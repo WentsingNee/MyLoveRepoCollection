@@ -1,0 +1,120 @@
+[submodule "Amalgamate"]
+	path = Amalgamate
+	url = git@github.com:vinniefalco/Amalgamate.git
+[submodule "boost"]
+	path = boost
+	url = https://github.com/boostorg/boost.git
+[submodule "Catch2"]
+	path = Catch2
+	url = https://github.com/catchorg/Catch2.git
+[submodule "CMake"]
+	path = CMake
+	url = https://github.com/Kitware/CMake.git
+[submodule "cmdline"]
+	path = cmdline
+	url = https://github.com/tanakh/cmdline.git
+[submodule "co2"]
+	path = co2
+	url = https://github.com/jamboree/co2.git
+[submodule "compiler-explorer"]
+	path = compiler-explorer
+	url = git@github.com:mattgodbolt/compiler-explorer.git
+[submodule "compile-time-regular-expressions"]
+	path = compile-time-regular-expressions
+	url = https://github.com/hanickadot/compile-time-regular-expressions.git
+[submodule "cpp-btree"]
+	path = cpp-btree
+	url = https://github.com/diegocaro/cpp-btree.git
+[submodule "cppcoro"]
+	path = cppcoro
+	url = https://github.com/lewissbaker/cppcoro.git
+[submodule "cpp-httplib"]
+	path = cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib.git
+[submodule "cpython"]
+	path = cpython
+	url = https://github.com/python/cpython.git
+[submodule "doxygen"]
+	path = doxygen
+	url = https://github.com/doxygen/doxygen.git
+[submodule "draft"]
+	path = draft
+	url = https://github.com/cplusplus/draft.git
+[submodule "eigen"]
+	path = eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "emsdk"]
+	path = emsdk
+	url = https://github.com/emscripten-core/emsdk.git
+[submodule "fmt"]
+	path = fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "gcc"]
+	path = gcc
+	url = git://gcc.gnu.org/git/gcc.git
+[submodule "hiredis"]
+	path = hiredis
+	url = https://github.com/redis/hiredis.git
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json.git
+[submodule "Linq"]
+	path = Linq
+	url = https://github.com/pfultz2/Linq.git
+[submodule "llvm-project"]
+	path = llvm-project
+	url = git@github.com:llvm/llvm-project.git
+[submodule "matplotplusplus"]
+	path = matplotplusplus
+	url = https://github.com/alandefreitas/matplotplusplus.git
+[submodule "msvc_stl"]
+	path = STL
+	url = https://github.com/microsoft/STL.git
+[submodule "mysql-connector-cpp"]
+	path = mysql-connector-cpp
+	url = git@github.com:mysql/mysql-connector-cpp.git
+[submodule "nana"]
+	path = nana
+	url = https://github.com/cnjinhao/nana.git
+[submodule "opencv"]
+	path = opencv
+	url = git@github.com:opencv/opencv.git
+[submodule "opencv_contrib"]
+	path = opencv_contrib
+	url = git@github.com:opencv/opencv_contrib.git
+[submodule "pdqsort"]
+	path = pdqsort
+	url = https://github.com/orlp/pdqsort.git
+[submodule "promise-cpp"]
+	path = promise-cpp
+	url = https://github.com/xhawk18/promise-cpp.git
+[submodule "pybind11"]
+	path = pybind11
+	url = https://github.com/pybind/pybind11.git
+[submodule "qemu"]
+	path = qemu
+	url = https://github.com/qemu/qemu.git
+[submodule "range-v3"]
+	path = range-v3
+	url = https://github.com/ericniebler/range-v3.git
+[submodule "redox"]
+	path = redox
+	url = https://github.com/hmartiro/redox.git
+[submodule "riscv-isa-sim"]
+	path = riscv-isa-sim
+	url = https://github.com/riscv-software-src/riscv-isa-sim.git
+[submodule "riscv-pk"]
+	path = riscv-pk
+	url = https://github.com/riscv-software-src/riscv-pk.git
+[submodule "sqlite3pp"]
+	path = sqlite3pp
+	url = git@github.com:iwongu/sqlite3pp.git
+[submodule "unittest-cpp"]
+	path = unittest-cpp
+	url = https://github.com/unittest-cpp/unittest-cpp.git
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/Microsoft/vcpkg.git
+[submodule "xlnt"]
+	path = xlnt
+	url = https://github.com/tfussell/xlnt
