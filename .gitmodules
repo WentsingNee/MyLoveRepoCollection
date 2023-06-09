@@ -31,6 +31,9 @@
 [submodule "cpp-httplib"]
 	path = cpp-httplib
 	url = https://github.com/yhirose/cpp-httplib.git
+[submodule "cpr"]
+	path = cpr
+	url = https://github.com/whoshuu/cpr.git
 [submodule "cpython"]
 	path = cpython
 	url = https://github.com/python/cpython.git
